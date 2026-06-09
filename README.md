@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @Yashkute1
-- 👀 I’m interested in Kali Linux
-- 🌱 I’m currently learning Kali
-- 📫 How to reach me www.linkedin.com/in/yashkute 
+# Yashkute1
 
-<!---
-YashkuteYT/YashkuteYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend Developer** | Game Server Infrastructure & Web Systems
+
+---
+
+## Work
+
+**[Shadow Trace Solutions](https://shadowtracesoulation.com/)** · Digital Solutions  
+**[PC Part Hunt](https://pcparthunt.com/#/)** · Hardware Marketplace  
+**[Leaderboard](https://leaderboard.shadowtracehosting.com/)** · Game Server Stats
+
+---
+
+## Projects
+
+**Rust Stats Leaderboard** — Live player tracking & statistics system  
+*Oxide/Carbon · PHP · MySQL · RCON*
+
+---
+
+## Stack
+
+`PHP` `Rust` `MySQL` `Python` `JavaScript`
+
+---
+
+## Links
+
+[LinkedIn](https://linkedin.com/in/yashkute) · [GitHub](https://github.com/Yashkute1)
+
+---
+
+*Building clean, scalable systems*
